@@ -92,12 +92,9 @@ li a{
     display: grid;
     grid-template-columns:repeat(3, 1fr);
     gap: 5px;
+   
+    
 }
 .cart-title{
-    margin-top: 20px;
-}
-.footer{
-    height: 400px;
-    background: gray;
     margin-top: 20px;
 }
